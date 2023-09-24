@@ -19,7 +19,7 @@ export default {
    APIs: {
       xzn: {
          URI: 'https://xzn.wtf',
-         Key: "i dont know"
+         Key: "xzn"
       }
    },
 
@@ -43,18 +43,18 @@ export default {
    },
 
    options: {
-      public: true,
+      public: false,
       URI: "database.json", // use mongo or file json
-      owner: ["6288292024190", "62858156631709"],
+      owner: ["62851769520030", "62895411954396"],
       pathCommand: 'commands'
    },
 
    Exif: {
-      packId: "https://instagram.com/cak_haho",
+      packId: "https://instagram.com/clarissa",
       packName: `Sticker ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
-      packEmail: "dika.ardianta7@yahoo.com",
-      packWebsite: "https://instgaram.com/cak_haho",
+      packPublish: "Kanna Clarissa.",
+      packEmail: "kanna@yahoo.com",
+      packWebsite: "https://instgaram.com/clarissa",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       categories: ['😹', '😎', '😱'],
